@@ -1,0 +1,31 @@
+body {background-color: fuchsia;}
+h1  {
+    background-color: rgb(228, 131, 131);
+}
+#two    {
+    background-color: gold;
+}
+#three  {
+    background-color: gray;
+}
+#four  {
+    background-color: green;
+}
+#five   {
+    background-color: rgb(9, 165, 9);
+}
+#six    {  
+    color: indianred;
+}
+#seven  {
+    color: indigo;
+}
+#eight  {
+    color: aqua;  
+}
+#nine   {
+    color: aquamarine;
+}
+#ten    {
+    color: brown;
+}
